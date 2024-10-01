@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.class
+.env
+venv/
+*.json
+models/*.pkl
+results/*.png
+results/*.csv
